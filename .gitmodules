@@ -1,0 +1,3 @@
+[submodule "graal"]
+	path = graal
+	url = ./graal
